@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+ol,ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+.content h6{
+    display: flex;
+    align-items: center;
+    text-align: center;
+     font-family: "Inter", sans-serif;
+    margin: 0 auto;
+
+}
+.pera h1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 705px;
+    height: 65px;
+    font-weight: 700;
+    font-size: 48px;
+    margin: 0 auto;
+    margin-top: 24px;
+    font-family: "Open Sans", sans-serif;
+}
+.pera h6{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 162px;
+    height: 17px;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 100px;
+       font-family: "Open Sans", sans-serif;
+}
+.pera p{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 604px;
+    height: 64px;
+    font-weight: 400;
+    font-size: 18px;
+margin: 0 auto;
+    margin-top: 48px;
+       font-family: "Open Sans", sans-serif;
+}
+.card{
+    display: flex;
+    gap: 30px;
+}
+
+.cardOne{
+    width: 548px;
+    height: 314px;
+    border: 1px solid rgba(0, 0, 0, 0.321);
+}
+.cardTwo{
+    width: 548px;
+    height: 314px;
+    border: 1px solid rgba(0, 0, 0, 0.321);
+}
+.cardOne img{
+    margin-left: 100px;
+
+}
+
